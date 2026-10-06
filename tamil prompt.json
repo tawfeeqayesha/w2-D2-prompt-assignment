@@ -1,0 +1,97 @@
+{
+  "title": "Complete Visual Representation of Tamil Nadu",
+
+  "subject": "Tamil Nadu as a diverse representation of South Indian culture, modern life, natural landscapes, agriculture, coastal regions, heritage, food, festivals, industries, arts, architecture, wildlife, and everyday people",
+
+  "social_harmony": "Hindus, Muslims, and Christians living together peacefully in Tamil Nadu, representing religious diversity, mutual respect, unity, and harmony",
+
+  "composition": {
+    "framing": "cinematic panoramic composition representing the diversity of Tamil Nadu in one cohesive visual",
+    "foreground": "Tamil people in authentic everyday and traditional clothing, colorful local markets, South Indian food, fresh fruits and vegetables, jasmine flowers, traditional handicrafts, kolam patterns, and lively street activity",
+    "middle_ground": "busy Tamil Nadu city life with local shops, buses, auto-rickshaws, modern buildings, traditional homes, railway stations, textile businesses, farmers, fishermen, and local communities",
+    "background": "a diverse landscape transitioning from the Tamil Nadu coastline and beaches to green agricultural fields, Western Ghats hills, waterfalls, forests, and distant heritage architecture",
+    "visual_balance": "equal visual importance given to urban life, rural life, nature, culture, economy, food, heritage, and modern development",
+    "depth": "strong foreground, middle-ground, and background separation with natural atmospheric depth"
+  },
+
+  "action": [
+    "farmers working in green paddy fields",
+    "fishermen working along the coastline",
+    "people shopping in colorful local markets",
+    "street vendors preparing authentic Tamil food",
+    "families participating in Pongal celebrations",
+    "artisans creating traditional handicrafts and textiles",
+    "students and professionals moving through a modern Tamil Nadu city",
+    "local buses, trains, and auto-rickshaws moving through busy streets",
+    "visitors exploring natural landscapes, beaches, hills, and waterfalls"
+  ],
+
+  "location": {
+    "region": "Tamil Nadu, South India",
+
+    "urban_elements": [
+      "Chennai cityscape",
+      "Coimbatore industrial and urban environment",
+      "Madurai city streets",
+      "Tiruchirappalli urban landscape",
+      "modern shopping and commercial areas"
+    ],
+
+    "rural_elements": [
+      "paddy fields",
+      "sugarcane fields",
+      "banana plantations",
+      "coconut groves",
+      "traditional village houses",
+      "agricultural communities"
+    ],
+
+    "natural_elements": [
+      "Bay of Bengal coastline",
+      "Marina-style urban beach environment",
+      "Kanyakumari coastline",
+      "Western Ghats",
+      "Nilgiri hills",
+      "waterfalls",
+      "green forests",
+      "rivers and lakes"
+    ],
+
+    "heritage_elements": [
+      "traditional Dravidian architecture",
+      "historic town streets",
+      "heritage buildings",
+      "traditional houses",
+      "ancient stone architecture"
+    ]
+  },
+
+  "aesthetics": {
+    "style": "high-end photorealistic cinematic documentary photography",
+    "lighting": "natural South Indian daylight combined with warm sunrise and sunset tones",
+    "color_palette": "vibrant but realistic colors inspired by green farmland, blue coastline, colorful markets, traditional textiles, flowers, and natural landscapes",
+    "atmosphere": "vibrant, authentic, diverse, energetic, welcoming, contemporary yet rooted in tradition",
+    "visual_quality": "ultra-detailed, realistic textures, natural skin tones, realistic architecture, cinematic depth, high dynamic range, 8K quality",
+    "cultural_accuracy": "authentic Tamil Nadu clothing, food, architecture, transportation, landscapes, festivals, occupations, and everyday life",
+    "color_balance": "Reduce excessive green tones and create a balanced, diverse color palette with coastal blues, warm earthy tones, natural browns, vibrant traditional clothing, colorful markets, golden sunlight, and realistic greenery",
+    "overall_impression": "a complete and balanced visual identity of Tamil Nadu showing that the state is more than temples and classical dance, combining tradition, modernity, nature, agriculture, coastline, cities, industries, food, festivals, and everyday life"
+  },
+
+  "negative_prompt": [
+    "overemphasis on temples",
+    "overemphasis on Bharatanatyam",
+    "generic representation of South India",
+    "North Indian cultural elements",
+    "incorrect traditional clothing",
+    "incorrect architecture",
+    "stereotypical portrayal",
+    "fantasy landscapes",
+    "cartoon style",
+    "distorted people",
+    "unrealistic anatomy",
+    "oversaturated colors",
+    "text",
+    "watermarks",
+    "logos"
+  ]
+}
